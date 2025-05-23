@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lekhnath%20Parajuli&fontSize=80&fontAlignY=35&animation=twinkling" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Lekhnath%20Parajuli&fontSize=40&fontAlignY=35&animation=twinkling" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&height=100&lines=Lekhnath%20Parajuli;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lk-naath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <h2>Software Engineer | Software Architect</h2>
+  <p>Passionate software engineer innovating with AI-powered systems and agents to build scalable, intelligent solutions that drive performance, efficiency, and business growth.</p>
 </div>
 
 <div align="center">
@@ -25,55 +22,31 @@
 <br/>
 
 <div align="center">
-  <h3>🚀 About Me</h3>
-  <p>
-    Passionate Full Stack Developer crafting robust and scalable applications<br/>
-    Specializing in Python, TypeScript, and Modern Web Technologies
-  </p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=lk-naath&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lk-naath&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
-
-  <h4>Languages & Frameworks</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-
-  <h4>Databases & Search</h4>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-
-  <h4>DevOps & Architecture</h4>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/Microservices-009688?style=flat-square&logo=kubernetes&logoColor=white" alt="Microservices"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lk-naath&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lk-naath&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=lk-naath&theme=github_dark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>💻 Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lk-naath&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=50&section=footer" alt="Footer"/>
 </div>
