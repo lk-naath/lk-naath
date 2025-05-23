@@ -8,8 +8,20 @@
   </p>
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🚀 About Me
-Passive software engineer and architect focused on building scalable, intelligent solutions. Expertise in AI-powered systems, software architecture, microservices, and innovative problem-solving.
+Passionate software engineer and architect focused on building scalable, intelligent solutions. Expertise in AI-powered systems, software architecture, microservices, and innovative problem-solving.
+
+## 📈 Current Focus
+- 🔍 AI/ML applications in software development
+- 🏗️ Scalable microservices architecture
+- 📚 Open-source contributions
+
+</td>
+<td width="50%">
 
 ## 🛠️ Tech Stack
 
@@ -34,10 +46,9 @@ Passive software engineer and architect focused on building scalable, intelligen
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
 <img src="https://img.shields.io/badge/REST-000000?style=flat-square&logo=rest&logoColor=white" alt="REST"/>
 
-## 📈 Current Focus
-- 🔍 AI/ML applications in software development
-- 🏗️ Scalable microservices architecture
-- 📚 Open-source contributions
+</td>
+</tr>
+</table>
 
 <div align="center">
   <p>Thanks for visiting! 👋</p>
