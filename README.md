@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Uttam%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lekhnath%20Parajuli&fontSize=80&fontAlignY=35&animation=twinkling" alt="Header"/>
 </div>
 
 <div align="center">
@@ -9,13 +9,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/uttam-kumar" target="_blank">
+  <a href="https://linkedin.com/in/lk-naath" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/uttamkumar" target="_blank">
+  <a href="https://twitter.com/lk-naath" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:lk.naath@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
