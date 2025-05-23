@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Lekhnath%20Parajuli&fontSize=40&fontAlignY=35&animation=twinkling" alt="Header"/>
+  <h1>Lekhnath Parajuli</h1>
 </div>
 
 <div align="center">
@@ -22,21 +22,7 @@
 <br/>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lk-naath&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lk-naath&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
+  <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
