@@ -2,7 +2,7 @@
   <h1>👋 Lekhnath Parajuli</h1>
   <h3>Software Engineer & Architect | AI Enthusiast</h3>
   <p>
-    <a href="https://linkedin.com/in/lk-naath" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/lekhnath-parajuli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://twitter.com/lk_naath" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
     <a href="mailto:lk.naath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
