@@ -13,7 +13,7 @@
 <td width="50%">
 
 ## 🚀 About Me
-Passionate software engineer and architect focused on building scalable, intelligent solutions. Expertise in AI-powered systems, software architecture, microservices, and innovative problem-solving.
+Software engineer and architect focused on building scalable, intelligent solutions. Expertise in AI-powered systems, software architecture, microservices, and innovative problem-solving.
 
 ## 📈 Current Focus
 - 🔍 AI/ML applications in software development
